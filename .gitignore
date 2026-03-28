@@ -1,0 +1,13 @@
+.DS_Store
+.venv/
+__pycache__/
+*.pyc
+.playwright-cli/
+*.log
+*.tsbuildinfo
+backend/data/
+frontend/dist/
+frontend/node_modules/
+frontend/vite.config.js
+frontend/vite.config.d.ts
+output/
