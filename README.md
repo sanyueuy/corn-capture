@@ -112,11 +112,3 @@ npm run build
 - `annotations_extra.csv`
 
 `annotations_extra.csv` 额外保存每个框的 `plant_height_cm` 和每张图的 `capture_height_cm`。
-
-## 适合直接公开到 GitHub 吗？
-
-可以。这份仓库已经补齐了开源协议、贡献文档、Issue / PR 模板和本地文件忽略规则。发布前建议你再确认一次：
-
-- README 中的项目名称和作者信息是否符合你的公开身份
-- LICENSE 里的版权人是否需要改成你的 GitHub 名称或组织名
-- 工作目录中没有误放真实实验数据或私人截图
